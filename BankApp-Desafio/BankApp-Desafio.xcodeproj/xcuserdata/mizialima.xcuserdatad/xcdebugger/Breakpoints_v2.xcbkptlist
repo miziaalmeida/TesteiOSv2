@@ -18,6 +18,113 @@
             endingLineNumber = "10"
             landmarkName = "unknown"
             landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "7A135F36-632C-47C9-A635-164C79FCD276 - d0a35cbd6b7f9e6e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BankApp_DesafioTests.StatementsInteractorTests.__deallocating_deinit"
+                  moduleName = "BankApp-DesafioTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mizialima/Developer/TesteiOSv2/BankApp-Desafio/BankApp-DesafioTests/Scenes/Statements/StatementsInteractorTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "7A135F36-632C-47C9-A635-164C79FCD276 - 783205b580b12951"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BankApp_DesafioTests.StatementsInteractorTests.__allocating_init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; BankApp_DesafioTests.StatementsInteractorTests"
+                  moduleName = "BankApp-DesafioTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mizialima/Developer/TesteiOSv2/BankApp-Desafio/BankApp-DesafioTests/Scenes/Statements/StatementsInteractorTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "7A135F36-632C-47C9-A635-164C79FCD276 - 9fbe91ac63ab494c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BankApp_DesafioTests.StatementsInteractorTests.init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; BankApp_DesafioTests.StatementsInteractorTests"
+                  moduleName = "BankApp-DesafioTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mizialima/Developer/TesteiOSv2/BankApp-Desafio/BankApp-DesafioTests/Scenes/Statements/StatementsInteractorTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "97">
+               </Location>
+               <Location
+                  uuid = "7A135F36-632C-47C9-A635-164C79FCD276 - 9008d04e7d7a11c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BankApp_DesafioTests.StatementsInteractorTests.__allocating_init(selector: ObjectiveC.Selector) -&gt; BankApp_DesafioTests.StatementsInteractorTests"
+                  moduleName = "BankApp-DesafioTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mizialima/Developer/TesteiOSv2/BankApp-Desafio/BankApp-DesafioTests/Scenes/Statements/StatementsInteractorTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "7A135F36-632C-47C9-A635-164C79FCD276 - 5b0920e17b962f2c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BankApp_DesafioTests.StatementsInteractorTests.init(selector: ObjectiveC.Selector) -&gt; BankApp_DesafioTests.StatementsInteractorTests"
+                  moduleName = "BankApp-DesafioTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mizialima/Developer/TesteiOSv2/BankApp-Desafio/BankApp-DesafioTests/Scenes/Statements/StatementsInteractorTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "97">
+               </Location>
+               <Location
+                  uuid = "7A135F36-632C-47C9-A635-164C79FCD276 - 3d22a21aa8abee08"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BankApp_DesafioTests.StatementsInteractorTests.__allocating_init() -&gt; BankApp_DesafioTests.StatementsInteractorTests"
+                  moduleName = "BankApp-DesafioTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mizialima/Developer/TesteiOSv2/BankApp-Desafio/BankApp-DesafioTests/Scenes/Statements/StatementsInteractorTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "7A135F36-632C-47C9-A635-164C79FCD276 - 51c65745b66c009b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BankApp_DesafioTests.StatementsInteractorTests.init() -&gt; BankApp_DesafioTests.StatementsInteractorTests"
+                  moduleName = "BankApp-DesafioTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mizialima/Developer/TesteiOSv2/BankApp-Desafio/BankApp-DesafioTests/Scenes/Statements/StatementsInteractorTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "75">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy

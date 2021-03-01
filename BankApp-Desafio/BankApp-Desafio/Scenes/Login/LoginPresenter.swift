@@ -16,7 +16,7 @@ protocol LoginPresentationLogic {
     func presentLoginUser(response: Login.Response)
     func presentErrorMessage(message: String)
     func loadingUser()
-    func getLastUserLogged(user: String, password: String)
+    func getLastUser(user: String, password: String)
 }
 
 //MARK: Presenter
@@ -37,7 +37,7 @@ class LoginPresenter: LoginPresentationLogic {
         viewController?.showLoading()
     }
     
-    func getLastUserLogged(user: String, password: String) {
+    func getLastUser(user: String, password: String) {
         viewController?.fillLastUser(user: user, password: password)
     }
 }

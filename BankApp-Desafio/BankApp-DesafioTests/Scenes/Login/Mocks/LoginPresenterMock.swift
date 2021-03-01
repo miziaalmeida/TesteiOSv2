@@ -24,4 +24,8 @@ class LoginPresenterMock: LoginPresentationLogic {
     func loadingUser() {
         //
     }
+    
+    func getLastUser(user: String, password: String) {
+        //
+    }
 }
