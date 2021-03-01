@@ -77,6 +77,6 @@ class LoginInteractor: LoginBusinessLogic, LoginDataStore {
         guard let loginCredentials = worker?.getLastUser() else {
             return
         }
-        presenter?.getLastUserLogged(user: loginCredentials.user, password: loginCredentials.password)
+        presenter?.getLastUser(user: loginCredentials.user, password: loginCredentials.password)
     }
 }
